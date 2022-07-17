@@ -1,0 +1,16 @@
+# PyTorch datasets
+*.pt
+
+# JetBrains
+.idea/
+
+# model checkpoints
+model_checkpoints/
+
+# Tensorboard runs
+runs/
+
+# Other
+
+# archives
+*.zip
